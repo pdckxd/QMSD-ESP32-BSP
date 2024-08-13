@@ -61,3 +61,4 @@ example/**/sdkconfig.old
 example/**/dependencies.lock
 
 firmware_0x0.bin
+example/lvgl-demo/.cache/clangd/index
